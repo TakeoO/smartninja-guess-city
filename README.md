@@ -1,1 +1,0 @@
-# smartninja-guess-city
